@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.28.3)
+PROJECT(simple)
+INCLUDE_DIRECTORIES(include)
+aux_source_directory(src SRC_FILES)
+add_executable(simple ${SRC_FILES})
