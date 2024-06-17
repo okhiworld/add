@@ -1,0 +1,3 @@
+/home/wtt/ColorChannelSeparator/build/CMakeFiles/ColorChannelSeparator.dir
+/home/wtt/ColorChannelSeparator/build/CMakeFiles/edit_cache.dir
+/home/wtt/ColorChannelSeparator/build/CMakeFiles/rebuild_cache.dir
